@@ -2,8 +2,6 @@
 
 🌐 **[Personal Website](https://mamangcao.com)** · 🗂️ **[Projects](https://mamangcao.com/projects)** · 💼 **[Experience](https://mamangcao.com/experience)** · 🛠️ **[Tech Stack](https://mamangcao.com/stack)** · 🪪 **[Certifications](https://mamangcao.com/certifications)** · ⭐ **[Recommendations](https://mamangcao.com/recommendations)**
 
-📧 Email me at: **abdulhaleem.mamangcao@gmail.com**
-
 ---
 
 <!-- <div align="start">
